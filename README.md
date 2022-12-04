@@ -51,7 +51,5 @@
 ### 📊 My Stats :
 
 [![Cry Streaks](https://github-readme-streak-stats.herokuapp.com?user=somedieyoungcry&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
-
 ![Cry Stats](https://github-readme-stats.vercel.app/api?somedieyoungcry=anuraghazra&show_icons=true&theme=dark)
-
 [![Cry Langs](https://github-readme-stats.vercel.app/api/top-langs/?somedieyoungcry=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
