@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/S0l1Ah4cjIdwY/giphy.gif?cid=ecf05e47hcq3kurjvdk6agtdsfm4esam476wpbt93iszure7&rid=giphy.gif&ct=g" width="200" />
     <h1 align="center">Hi 👋, I'm Juan (Cry)</h1>
-    <h3 align="center">Hi, I'm Juan, I'm a student of engineering in intelligent systems at UAEMex, 
+    <h3 align="center">Hi, I'm Juan, I'm a student of Engineering in Intelligent Systems at UAEMex, 
     I have very solid knowledge about Databases (SQL, MySQL, MongoDB). 
     I am an ardent fan of data analysis and back-end development.</h3>
 </div>
