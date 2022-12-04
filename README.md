@@ -10,9 +10,8 @@
     <a href="https://www.twitch.tv/cryiwnl_">
          <img src="https://img.shields.io/twitch/status/cryiwnl_?style=social" alt="Twitch Badge" />
     </a>
-
     <a href="https://twitter.com/sdycry">
-         <img src="https://img.shields.io/twitter/follow/sdycry?style=social"alt="Twitter Badge" />
+         <img src="https://img.shields.io/twitter/follow/sdycry?style=social" alt="Twitter Badge" />
     </a>
 </div>
 
