@@ -42,7 +42,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLSERVER" **alt="SQLSERVER" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OPENCV" **alt="OPENCV" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
-
       </div>
 </div>
 
