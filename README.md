@@ -1,7 +1,7 @@
 ### Who I am ?
 
 
-![conneting](https://giphy.com/embed/S0l1Ah4cjIdwY)
+<iframe src="https://giphy.com/embed/S0l1Ah4cjIdwY" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daria-cartoon-mtv-S0l1Ah4cjIdwY">/a></p>
 
 ### Languages and Tools:
 
