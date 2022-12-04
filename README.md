@@ -1,32 +1,61 @@
-### Who I am ?
+<div id="header" align="center">
+    <img src="https://media0.giphy.com/media/S0l1Ah4cjIdwY/giphy.gif?cid=ecf05e47hcq3kurjvdk6agtdsfm4esam476wpbt93iszure7&rid=giphy.gif&ct=g" width="200" />
+    <h1 align="center">Hi 👋, I'm Juan Fuentes Saldaña (Cry)</h1>
+    <h3 align="center">Hi, I'm Juan, I'm a student of engineering in intelligent systems at UAEMex, 
+    I have very solid knowledge about Databases (SQL, MySQL, MongoDB). 
+    I am an ardent fan of data analysis and back-end development.</h3>
+</div>
 
+<div id="badges" align="center">
+    <a href="https://www.twitch.tv/cryiwnl_" target="_blank">
+         <img src="https://img.shields.io/twitch/status/cryiwnl_?color=purple&logo=twitch&style=for-the-badge" alt="Twitch Badge" />
+    </a>
 
-<iframe src="https://giphy.com/embed/S0l1Ah4cjIdwY" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daria-cartoon-mtv-S0l1Ah4cjIdwY">/a></p>
+    <a href="https://twitter.com/sdycry" target="_blank">
+         <img src="https://img.shields.io/twitter/follow/sdycry?color=blue&label=sdycry&logo=twitter&style=for-the-badge"alt="Twitter Badge" />
+    </a>
 
-### Languages and Tools:
+    <a href="https://www.instagram.com/somedieyoungcry/" target="_blank">
+         <img src="https://img.shields.io/badge/Instagram-somedieyoungcry-blue?style=for-the-badge&logo=instagram" alt="Instagram Badge" />
+</div>
 
-Java/Linux/Python/Mysql
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+---
 
-Git/OpenCV/Pandas/Photoshop
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me :
 
-### Interested in:
+- 💬 Ask me about **Python, SQL, Java**
 
-- Cyber security
-- Data Science
-- Developer
+- 📫 How to reach me **jfuentes.sdy@gmail.com**
 
-### Find me:
+- 🌱 I’m currently learning **PHP, Django, Angular and More SQL**
 
-<p align="left">
-<a href="https://instagram.com/robertovm_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertovm_4" height="30" width="40" /></a>
-<p></p>
-<a href="mailto:roberto_villegas_mendez@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roberto Villegas Mendez" height="30" width="40" />roberto_villegas_mendez@outlook.com</a>
-</p>
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" **alt="MYSQL" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" **alt="DJANGO" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" **alt="JAVA" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" **alt="LINUX" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLSERVER" **alt="SQLSERVER" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OPENCV" **alt="OPENCV" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Alvaro&langs_count=8)](https://github.com/Roberto-Alvaro/github-readme-stats)
+      </div>
+</div>
 
-[![Roberto-Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Alvaro&theme=dark)](https://github.com/Roberto-Alvaro/github-readme-stats)
+---
 
-![Profile views](https://gpvc.arturio.dev/Roberto-Alvaro) 
+### 📊 My Stats :
+
+[![Cry Streaks](https://github-readme-streak-stats.herokuapp.com?user=somedieyoungcry&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
+
+![Cry Stats](https://github-readme-stats.vercel.app/api?somedieyoungcry=anuraghazra&show_icons=true&theme=dark)
+
+[![Cry Langs](https://github-readme-stats.vercel.app/api/top-langs/?somedieyoungcry=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
