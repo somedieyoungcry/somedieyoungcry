@@ -7,16 +7,13 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://www.twitch.tv/cryiwnl_" target="_blank">
-         <img src="https://img.shields.io/twitch/status/cryiwnl_?color=purple&logo=twitch&style=for-the-badge" alt="Twitch Badge" />
+    <a href="https://www.twitch.tv/cryiwnl_">
+         <img src="https://img.shields.io/twitch/status/cryiwnl_?style=social" alt="Twitch Badge" />
     </a>
 
-    <a href="https://twitter.com/sdycry" target="_blank">
-         <img src="https://img.shields.io/twitter/follow/sdycry?color=blue&label=sdycry&logo=twitter&style=for-the-badge"alt="Twitter Badge" />
+    <a href="https://twitter.com/sdycry">
+         <img src="https://img.shields.io/twitter/follow/sdycry?style=social"alt="Twitter Badge" />
     </a>
-
-    <a href="https://www.instagram.com/somedieyoungcry/" target="_blank">
-         <img src="https://img.shields.io/badge/Instagram-somedieyoungcry-blue?style=for-the-badge&logo=instagram" alt="Instagram Badge" />
 </div>
 
 ---
