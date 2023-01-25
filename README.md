@@ -23,7 +23,7 @@
 
 - 📫 You can send me mail to **jfuentes.sdy@gmail.com**
 
-- 🌱 I’m currently learning **PHP, Django, Matlab and More SQL**
+- 🌱 I’m currently learning **Front-End Tools (React, Angular & Vue)**
 
 <div align="left">
     <h3>💻 Languages and Tools:</h3>
@@ -32,15 +32,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" **alt="MYSQL" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" **alt="DJANGO" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" **alt="JAVA" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" **alt="LINUX" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLSERVER" **alt="SQLSERVER" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OPENCV" **alt="OPENCV" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" **alt="REACT" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="ANGULAR" **alt="ANGULAR" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" title="VUEJS" **alt="VUEJS" width="40" height="40"/>
       </div>
 </div>
 
