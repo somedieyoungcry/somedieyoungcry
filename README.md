@@ -1,16 +1,16 @@
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/S0l1Ah4cjIdwY/giphy.gif?cid=ecf05e47hcq3kurjvdk6agtdsfm4esam476wpbt93iszure7&rid=giphy.gif&ct=g" width="200" />
-    <h1 align="center">Hi 👋, I'm Juan (Cry)</h1>
-    <h3 align="center">I'm a student of Engineering in Intelligent Systems at UAEMex, 
-    I have very solid knowledge about Databases (SQL, MySQL, MongoDB). 
-    I am an ardent fan of data analysis and back-end development.</h3>
+    <h1 align="center">Hi There 👋, I'm Juan (Cry)</h1>
+    <h3 align="center">I'm a student of Engineering in Intelligent Systems at UAEMex. 
+    I have many skills on DataBases & Front-End. 
+    I am currently in the process of becoming a Front-End developer, and also learning more about Databases.</h3>
 </div>
-
+ 
 <div id="badges" align="center">
     <a href="https://www.twitch.tv/cryiwnl_">
          <img src="https://img.shields.io/twitch/status/cryiwnl_?style=social" alt="Twitch Badge" />
     </a>
-    <a href="https://twitter.com/sdycry">
+    <a href="https://twitter.com/somedieyoungcry">
          <img src="https://img.shields.io/twitter/follow/sdycry?style=social" alt="Twitter Badge" />
     </a>
 </div>
@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about **Python, SQL, Java**
+- 💬 You can ask me about **Python, SQL, Java**
 
-- 📫 You can send me mail to **jfuentes.sdy@gmail.com**
+- 📫 Send me mail to **jfuentes.sdy@gmail.com**
 
 - 🌱 I’m currently learning **Front-End Tools (React, Angular & Vue)**
 
