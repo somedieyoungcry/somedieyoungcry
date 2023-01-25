@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media0.giphy.com/media/S0l1Ah4cjIdwY/giphy.gif?cid=ecf05e47hcq3kurjvdk6agtdsfm4esam476wpbt93iszure7&rid=giphy.gif&ct=g" width="200" />
+    <img src="https://gfycat.com/optimisticunevenangelfish" width="200" />
     <h1 align="center">Hi There 👋, I'm Juan (Cry)</h1>
     <h3 align="center">I'm a student of Engineering in Intelligent Systems at UAEMex. 
     I have many skills on DataBases & Front-End. 
