@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/50/fa/e4/50fae4ac6186ec1b54391191b7db925d.gif" width="200" />
+    <img src="https://i.pinimg.com/originals/eb/45/c3/eb45c358a092b977d1768e32cac0d625.gif" width="200" />
     <h1 align="center">Hi There 👋, I'm Juan (Cry)</h1>
     <h3 align="center">I'm a student of Engineering in Intelligent Systems at UAEMex. 
     I have many skills on DataBases & Front-End. 
