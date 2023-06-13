@@ -1,9 +1,7 @@
 <div id="header" align="center">
     <img src="https://i.pinimg.com/originals/eb/45/c3/eb45c358a092b977d1768e32cac0d625.gif" width="200" />
     <h1 align="center">Hi There 👋, I'm Juan (Cry)</h1>
-    <h3 align="center">I'm a student of Engineering in Intelligent Systems at UAEMex. 
-    I have many skills on Data Analyst n Front-end. 
-    I'm currently in the process of becoming a Data Analyst developer, and also learning more about Front-end tools.</h3>
+    <h3 align="center">Data enthusiast, I currently work in big data and I continue to develop myself in the data analysis part.</h3>
 </div>
  
 <div id="badges" align="center">
@@ -36,8 +34,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" **alt="LINUX" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLSERVER" **alt="SQLSERVER" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" **alt="R" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       </div>
 </div>
