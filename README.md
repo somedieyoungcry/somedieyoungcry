@@ -17,11 +17,11 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 You can ask me about **Python, SQL, Java**
+- 💬 You can ask me about **Python, Scala, Spark**
 
 - 📫 Send me mail to **jfuentes.sdy@gmail.com**
 
-- 🌱 I'm currently learning Tableau.
+- 🌱 I'm currently learning Spark.
 
 <div align="left">
     <h3>💻 Languages and Tools:</h3>
